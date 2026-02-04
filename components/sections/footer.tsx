@@ -84,7 +84,7 @@ export function Footer() {
         <div className="mt-16 pt-8 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-4 text-[10px] uppercase tracking-[0.2em] text-stone-600">
           <p>&copy; {currentYear} Markus Vorhauser. {t("rights")}.</p>
           <div className="flex items-center gap-2">
-            <span className="opacity-50">{t("createdBy")} flowset.ai</span>
+            <span className="opacity-50">{t("createdBy")} <a href="https://flowset.ai" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">flowset.ai</a></span>
           </div>
         </div>
       </div>

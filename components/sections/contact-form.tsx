@@ -65,8 +65,13 @@ export function ContactForm() {
           name="phone"
           type="tel"
           placeholder={t("phonePlaceholder")}
+          required
           disabled={isPending}
+          className={cn(state.errors?.phone && "border-red-500")}
         />
+        {state.errors?.phone && (
+          <p className="text-sm text-red-500">{state.errors.phone[0]}</p>
+        )}
       </div>
 
       <div className="space-y-2">
@@ -75,7 +80,6 @@ export function ContactForm() {
           id="message"
           name="message"
           placeholder={t("messagePlaceholder")}
-          required
           disabled={isPending}
           className={cn(state.errors?.message && "border-red-500")}
         />

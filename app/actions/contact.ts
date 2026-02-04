@@ -33,12 +33,26 @@ export async function submitContactForm(
   const data: ContactFormValues = validatedFields.data;
 
   try {
-    // TODO: Implement actual email sending or database storage
-    // For now, just log and simulate success
-    console.log("Contact form submission:", data);
+    const webhookUrl = "https://n8n-peter-kass-u51163.vm.elestio.app/webhook/0e903cc9-1fc4-4336-bd3b-899a70e6a9ab";
 
-    // Simulate network delay
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+    const response = await fetch(webhookUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        name: data.name,
+        email: data.email,
+        phone: data.phone,
+        message: data.message || "",
+        locale: data.locale,
+        timestamp: new Date().toISOString(),
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error(`Webhook failed: ${response.status}`);
+    }
 
     return {
       success: true,
