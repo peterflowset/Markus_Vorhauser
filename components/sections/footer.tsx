@@ -77,12 +77,21 @@ export function Footer() {
                   <ArrowUpRight className="w-3 h-3 opacity-40" />
                 </Link>
               </li>
+              <li>
+                <Link href="/cookie-policy" className="flex items-center gap-2 hover:text-white transition-colors text-stone-500">
+                  {t("cookiePolicy")}
+                  <ArrowUpRight className="w-3 h-3 opacity-40" />
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
 
         <div className="mt-16 pt-8 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-4 text-[10px] uppercase tracking-[0.2em] text-stone-600">
-          <p>&copy; {currentYear} Markus Vorhauser. {t("rights")}.</p>
+          <div className="flex flex-col items-center md:items-start gap-2">
+            <p>&copy; {currentYear} Markus Vorhauser. {t("rights")}.</p>
+            <p className="text-stone-500">P.IVA: 01652250216</p>
+          </div>
           <div className="flex items-center gap-2">
             <span className="opacity-50">{t("createdBy")} <a href="https://flowset.ai" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">flowset.ai</a></span>
           </div>

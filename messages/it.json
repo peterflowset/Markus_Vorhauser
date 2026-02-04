@@ -66,9 +66,18 @@
     "rights": "Tutti i diritti riservati",
     "privacy": "Privacy",
     "imprint": "Impressum",
+    "cookiePolicy": "Politica sui Cookie",
     "navigation": "Navigazione",
     "contact": "Contatti",
     "createdBy": "Creato da"
+  },
+  "cookies": {
+    "title": "Impostazioni Cookie",
+    "description": "Questo sito utilizza solo cookie tecnici necessari per la selezione della lingua. Non vengono utilizzati cookie di tracciamento o analitici.",
+    "learnMore": "Maggiori informazioni",
+    "accept": "Accetta",
+    "reject": "Rifiuta",
+    "close": "Chiudi"
   },
   "leistungen": {
     "title": "I nostri servizi",
@@ -203,12 +212,21 @@
       "taxCode": "Codice fiscale",
       "vatNumber": "P.IVA",
       "sdiCode": "Codice SDI",
+      "reaNumber": "Numero REA",
+      "reaValue": "BZ-XXXXXX (Da completare)",
       "chamber": "Ordine degli Avvocati di Bolzano",
-      "chamberSince": "Iscritto dal 2002"
+      "chamberSince": "Iscritto dal 2002",
+      "chamberLink": "Sito web dell'Ordine degli Avvocati di Bolzano"
     },
     "insurance": {
       "title": "Assicurazione professionale",
-      "text": "Assicurazione di responsabilità civile professionale secondo le disposizioni dell'Ordine degli Avvocati di Bolzano"
+      "text": "Assicurazione di responsabilità civile professionale secondo le disposizioni dell'Ordine degli Avvocati di Bolzano",
+      "lawReference": "Ai sensi dell'Art. 12 L. 247/2012"
+    },
+    "conduct": {
+      "title": "Codice Deontologico",
+      "text": "L'attività forense è soggetta al Codice Deontologico Forense italiano.",
+      "link": "Visualizza il Codice Deontologico Forense"
     },
     "supervisory": {
       "title": "Autorità di vigilanza",
@@ -266,7 +284,17 @@
     },
     "cookies": {
       "title": "Cookie",
-      "text": "Questo sito web non utilizza cookie di tracciamento. Vengono utilizzati solo cookie tecnicamente necessari per la selezione della lingua."
+      "text": "Questo sito web non utilizza cookie di tracciamento. Vengono utilizzati solo cookie tecnicamente necessari per la selezione della lingua.",
+      "link": "Alla politica dettagliata sui cookie"
+    },
+    "hosting": {
+      "title": "Hosting",
+      "text": "Questo sito web è ospitato da:",
+      "provider": "Provider",
+      "location": "Ubicazione",
+      "locationValue": "USA (con clausole contrattuali standard UE)",
+      "dpa": "Accordo sul trattamento dei dati",
+      "dpaValue": "Presente ai sensi dell'Art. 28 GDPR"
     },
     "contact": {
       "title": "Contatto per richieste sulla privacy",
@@ -275,6 +303,62 @@
     "authority": {
       "title": "Diritto di reclamo",
       "text": "Avete il diritto di presentare un reclamo all'autorità italiana per la protezione dei dati (Garante per la protezione dei dati personali)."
+    }
+  },
+  "cookiePolicy": {
+    "title": "Politica sui Cookie",
+    "intro": "Questa politica sui cookie spiega quali cookie vengono utilizzati su questo sito web e per quale scopo.",
+    "whatAreCookies": {
+      "title": "Cosa sono i cookie?",
+      "text": "I cookie sono piccoli file di testo che vengono memorizzati sul vostro dispositivo quando visitate un sito web. Permettono al sito web di memorizzare le vostre azioni e preferenze per un determinato periodo di tempo."
+    },
+    "categories": {
+      "title": "Categorie di cookie",
+      "technical": {
+        "title": "Cookie tecnici necessari",
+        "description": "Questi cookie sono assolutamente necessari per il funzionamento del sito web e non possono essere disattivati. Vengono impostati solo in risposta ad azioni da voi effettuate."
+      },
+      "analytical": {
+        "title": "Cookie analitici",
+        "description": "Questo sito web attualmente non utilizza cookie analitici."
+      },
+      "profiling": {
+        "title": "Cookie di profilazione",
+        "description": "Questo sito web non utilizza cookie di profilazione o marketing."
+      }
+    },
+    "cookies": {
+      "table": {
+        "name": "Nome Cookie",
+        "purpose": "Scopo",
+        "duration": "Durata",
+        "type": "Tipo"
+      },
+      "technical": {
+        "locale": {
+          "purpose": "Memorizza la lingua selezionata (Tedesco/Italiano)",
+          "duration": "1 anno",
+          "type": "Tecnicamente necessario"
+        },
+        "consent": {
+          "purpose": "Memorizza il vostro consenso ai cookie",
+          "duration": "Permanente (fino alla cancellazione)",
+          "type": "Tecnicamente necessario"
+        }
+      }
+    },
+    "rights": {
+      "title": "I vostri diritti",
+      "text": "Potete modificare le vostre impostazioni sui cookie in qualsiasi momento:",
+      "items": [
+        "Cancellate tutti i cookie nelle impostazioni del browser",
+        "Bloccate i cookie nelle impostazioni del browser",
+        "Utilizzate la modalità in incognito/privata del vostro browser"
+      ]
+    },
+    "contact": {
+      "title": "Contatto",
+      "text": "Per domande sull'utilizzo dei cookie contattateci all'indirizzo info@vorhauser.eu"
     }
   }
 }

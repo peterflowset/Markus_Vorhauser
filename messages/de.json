@@ -66,9 +66,18 @@
     "rights": "Alle Rechte vorbehalten",
     "privacy": "Datenschutz",
     "imprint": "Impressum",
+    "cookiePolicy": "Cookie-Richtlinie",
     "navigation": "Navigation",
     "contact": "Kontakt",
     "createdBy": "Erstellt von"
+  },
+  "cookies": {
+    "title": "Cookie-Einstellungen",
+    "description": "Diese Website verwendet nur technisch notwendige Cookies für die Sprachauswahl. Es werden keine Tracking- oder Analyse-Cookies verwendet.",
+    "learnMore": "Mehr erfahren",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen",
+    "close": "Schließen"
   },
   "leistungen": {
     "title": "Unsere Leistungen",
@@ -203,12 +212,21 @@
       "taxCode": "Steuernummer",
       "vatNumber": "MwSt.-Nr.",
       "sdiCode": "SDI-Code",
+      "reaNumber": "REA-Nummer",
+      "reaValue": "BZ-XXXXXX (Bitte ergänzen)",
       "chamber": "Rechtsanwaltskammer Bozen",
-      "chamberSince": "Eingetragen seit 2002"
+      "chamberSince": "Eingetragen seit 2002",
+      "chamberLink": "Website der Rechtsanwaltskammer Bozen"
     },
     "insurance": {
       "title": "Berufshaftpflicht",
-      "text": "Berufshaftpflichtversicherung gemäß den Vorschriften der Rechtsanwaltskammer Bozen"
+      "text": "Berufshaftpflichtversicherung gemäß den Vorschriften der Rechtsanwaltskammer Bozen",
+      "lawReference": "Gemäß Art. 12 L. 247/2012"
+    },
+    "conduct": {
+      "title": "Berufsordnung",
+      "text": "Die anwaltliche Tätigkeit unterliegt dem italienischen Standesrecht (Codice Deontologico Forense).",
+      "link": "Codice Deontologico Forense ansehen"
     },
     "supervisory": {
       "title": "Aufsichtsbehörde",
@@ -266,7 +284,17 @@
     },
     "cookies": {
       "title": "Cookies",
-      "text": "Diese Website verwendet keine Tracking-Cookies. Es werden lediglich technisch notwendige Cookies für die Sprachauswahl verwendet."
+      "text": "Diese Website verwendet keine Tracking-Cookies. Es werden lediglich technisch notwendige Cookies für die Sprachauswahl verwendet.",
+      "link": "Zur ausführlichen Cookie-Richtlinie"
+    },
+    "hosting": {
+      "title": "Hosting",
+      "text": "Diese Website wird gehostet von:",
+      "provider": "Anbieter",
+      "location": "Standort",
+      "locationValue": "USA (mit EU-Standardvertragsklauseln)",
+      "dpa": "Auftragsverarbeitungsvertrag",
+      "dpaValue": "Vorhanden gemäß Art. 28 DSGVO"
     },
     "contact": {
       "title": "Kontakt für Datenschutzanfragen",
@@ -275,6 +303,62 @@
     "authority": {
       "title": "Beschwerderecht",
       "text": "Sie haben das Recht, eine Beschwerde bei der italienischen Datenschutzbehörde (Garante per la protezione dei dati personali) einzureichen."
+    }
+  },
+  "cookiePolicy": {
+    "title": "Cookie-Richtlinie",
+    "intro": "Diese Cookie-Richtlinie erklärt, welche Cookies auf dieser Website verwendet werden und zu welchem Zweck.",
+    "whatAreCookies": {
+      "title": "Was sind Cookies?",
+      "text": "Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden, wenn Sie eine Website besuchen. Sie ermöglichen es der Website, Ihre Aktionen und Präferenzen über einen bestimmten Zeitraum zu speichern."
+    },
+    "categories": {
+      "title": "Cookie-Kategorien",
+      "technical": {
+        "title": "Technisch notwendige Cookies",
+        "description": "Diese Cookies sind für den Betrieb der Website unbedingt erforderlich und können nicht deaktiviert werden. Sie werden nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt."
+      },
+      "analytical": {
+        "title": "Analytische Cookies",
+        "description": "Diese Website verwendet derzeit keine analytischen Cookies."
+      },
+      "profiling": {
+        "title": "Profiling-Cookies",
+        "description": "Diese Website verwendet keine Profiling- oder Marketing-Cookies."
+      }
+    },
+    "cookies": {
+      "table": {
+        "name": "Cookie-Name",
+        "purpose": "Zweck",
+        "duration": "Speicherdauer",
+        "type": "Typ"
+      },
+      "technical": {
+        "locale": {
+          "purpose": "Speichert die gewählte Sprache (Deutsch/Italienisch)",
+          "duration": "1 Jahr",
+          "type": "Technisch notwendig"
+        },
+        "consent": {
+          "purpose": "Speichert Ihre Cookie-Einwilligung",
+          "duration": "Permanent (bis zum Löschen)",
+          "type": "Technisch notwendig"
+        }
+      }
+    },
+    "rights": {
+      "title": "Ihre Rechte",
+      "text": "Sie können Ihre Cookie-Einstellungen jederzeit ändern:",
+      "items": [
+        "Löschen Sie alle Cookies in Ihren Browser-Einstellungen",
+        "Blockieren Sie Cookies in Ihren Browser-Einstellungen",
+        "Verwenden Sie den Inkognito-/Privat-Modus Ihres Browsers"
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Bei Fragen zu unserer Cookie-Verwendung kontaktieren Sie uns bitte unter info@vorhauser.eu"
     }
   }
 }

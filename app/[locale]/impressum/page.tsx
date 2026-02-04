@@ -98,9 +98,22 @@ export default function ImpressumPage() {
                   <p>
                     <span className="font-medium">{t("legal.sdiCode")}:</span> ZRBGBN7
                   </p>
+                  <p>
+                    <span className="font-medium">{t("legal.reaNumber")}:</span> {t("legal.reaValue")}
+                  </p>
                   <p className="mt-4">
                     <span className="font-medium">{t("legal.chamber")}</span><br />
                     {t("legal.chamberSince")}
+                  </p>
+                  <p className="mt-4">
+                    <a
+                      href="https://www.ordineavvocatibolzano.it"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-accent hover:underline"
+                    >
+                      {t("legal.chamberLink")}
+                    </a>
                   </p>
                 </div>
               </div>
@@ -110,9 +123,33 @@ export default function ImpressumPage() {
                 <h2 className="text-xl font-semibold text-stone-900 mb-4">
                   {t("insurance.title")}
                 </h2>
-                <p className="text-stone-700">
+                <p className="text-stone-700 mb-4">
                   {t("insurance.text")}
                 </p>
+                <p className="text-sm text-stone-600">
+                  {t("insurance.lawReference")}
+                </p>
+              </div>
+
+              {/* Professional Conduct */}
+              <div className="glass rounded-2xl p-8 border border-stone-200/50">
+                <h2 className="text-xl font-semibold text-stone-900 mb-4">
+                  {t("conduct.title")}
+                </h2>
+                <p className="text-stone-700 mb-3">
+                  {t("conduct.text")}
+                </p>
+                <a
+                  href="https://www.consiglionazionaleforense.it/web/cnf/codice-deontologico"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-accent hover:underline inline-flex items-center gap-1"
+                >
+                  {t("conduct.link")}
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </a>
               </div>
 
               {/* Supervisory */}
@@ -120,9 +157,17 @@ export default function ImpressumPage() {
                 <h2 className="text-xl font-semibold text-stone-900 mb-4">
                   {t("supervisory.title")}
                 </h2>
-                <p className="text-stone-700">
+                <p className="text-stone-700 mb-3">
                   {t("supervisory.text")}
                 </p>
+                <a
+                  href="https://www.ordineavvocatibolzano.it"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-accent hover:underline"
+                >
+                  www.ordineavvocatibolzano.it
+                </a>
               </div>
             </div>
           </motion.div>

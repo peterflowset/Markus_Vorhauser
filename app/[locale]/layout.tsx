@@ -6,6 +6,7 @@ import { Inter } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import { Header } from "@/components/sections/header";
 import { Footer } from "@/components/sections/footer";
+import { CookieBanner } from "@/components/cookie-banner";
 import "@/app/globals.css";
 
 const inter = Inter({
@@ -60,6 +61,7 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <CookieBanner />
         </NextIntlClientProvider>
       </body>
     </html>

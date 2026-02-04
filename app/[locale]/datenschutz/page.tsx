@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
+import { Link } from "@/i18n/routing";
 
 export default function DatenschutzPage() {
   const t = useTranslations("datenschutz");
@@ -121,7 +122,25 @@ export default function DatenschutzPage() {
                 <h2 className="text-2xl font-semibold text-stone-900 mb-4">
                   {t("cookies.title")}
                 </h2>
-                <p className="text-stone-700">{t("cookies.text")}</p>
+                <p className="text-stone-700 mb-3">{t("cookies.text")}</p>
+                <Link href="/cookie-policy" className="text-accent hover:underline font-medium">
+                  {t("cookies.link")}
+                </Link>
+              </div>
+
+              {/* Hosting */}
+              <div>
+                <h2 className="text-2xl font-semibold text-stone-900 mb-4">
+                  {t("hosting.title")}
+                </h2>
+                <p className="text-stone-700 mb-4">{t("hosting.text")}</p>
+                <div className="glass rounded-xl p-6 border border-stone-200/50">
+                  <p className="text-stone-700">
+                    <span className="font-medium">{t("hosting.provider")}:</span> Vercel Inc.<br />
+                    <span className="font-medium">{t("hosting.location")}:</span> {t("hosting.locationValue")}<br />
+                    <span className="font-medium">{t("hosting.dpa")}:</span> {t("hosting.dpaValue")}
+                  </p>
+                </div>
               </div>
 
               {/* Contact */}
@@ -144,7 +163,15 @@ export default function DatenschutzPage() {
                 <h2 className="text-2xl font-semibold text-stone-900 mb-4">
                   {t("authority.title")}
                 </h2>
-                <p className="text-stone-700">{t("authority.text")}</p>
+                <p className="text-stone-700 mb-3">{t("authority.text")}</p>
+                <a
+                  href="https://www.garanteprivacy.it"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-accent hover:underline font-medium"
+                >
+                  www.garanteprivacy.it
+                </a>
               </div>
             </div>
           </motion.div>
