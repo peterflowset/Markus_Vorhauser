@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "Avv. Markus Vorhauser | Avvocato a Merano",
+    "description": "Studio legale Markus Vorhauser a Merano – Il vostro esperto per diritto successorio, immobiliare, familiare e civile in Alto Adige."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "about": "Chi sono",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "title": "Il vostro diritto in mani competenti",
+    "subtitle": "Dal 1996 il vostro partner affidabile per questioni legali in Alto Adige. Consulenza personale, competenza consolidata.",
+    "cta": "Richiedi consulenza",
+    "secondary": "I nostri servizi"
+  },
+  "services": {
+    "title": "Aree di competenza",
+    "subtitle": "Consulenza legale competente in tutti i settori principali",
+    "inheritance": "Diritto successorio",
+    "inheritanceDesc": "Eredità, testamenti, controversie ereditarie – consulenza e rappresentanza competente in tutte le questioni successorie.",
+    "property": "Immobili & Catasto",
+    "propertyDesc": "Redazione contratti, compravendite, questioni catastali e controversie immobiliari – supporto professionale per il vostro immobile.",
+    "family": "Diritto di famiglia",
+    "familyDesc": "Questioni personali e familiari: divorzio, alimenti, affidamento – accompagnamento sensibile in momenti difficili.",
+    "civil": "Diritto civile & penale",
+    "civilDesc": "Risarcimento danni, garanzia, recupero crediti e difesa penale – rappresentanza decisa dei vostri interessi."
+  },
+  "about": {
+    "title": "Chi sono",
+    "subtitle": "Avvocato Markus Vorhauser",
+    "description": "Con decenni di esperienza e una profonda comprensione delle esigenze dei miei clienti, offro consulenza legale di altissimo livello. Personale, competente e affidabile.",
+    "highlight1": "Attivo nella professione forense dal 1996",
+    "highlight2": "Iscritto all'Ordine degli Avvocati di Bolzano dal 2002",
+    "highlight3": "Qualifiche aggiuntive: Conservatore del libro fondiario e Mediatore",
+    "highlight4": "Assistenza personale in tedesco e italiano"
+  },
+  "contact": {
+    "title": "Contattateci",
+    "subtitle": "Fissate un appuntamento per una consulenza",
+    "info": {
+      "title": "Contatti",
+      "mainOffice": "Sede principale Merano",
+      "branchOffice": "Filiale Glorenza",
+      "phone": "Telefono",
+      "email": "E-Mail",
+      "pec": "PEC"
+    },
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Il vostro nome completo",
+      "email": "E-Mail",
+      "emailPlaceholder": "vostra@email.com",
+      "phone": "Telefono (opzionale)",
+      "phonePlaceholder": "+39 ...",
+      "message": "La vostra richiesta",
+      "messagePlaceholder": "Descrivete brevemente la vostra questione legale...",
+      "submit": "Invia richiesta",
+      "sending": "Invio in corso...",
+      "success": "Grazie! Vi contatteremo al più presto.",
+      "error": "Si è verificato un errore. Riprova."
+    }
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Privacy",
+    "imprint": "Impressum",
+    "navigation": "Navigazione",
+    "contact": "Contatti",
+    "createdBy": "Creato da"
+  },
+  "leistungen": {
+    "title": "I nostri servizi",
+    "subtitle": "Consulenza e rappresentanza legale completa",
+    "intro": "Come avvocato esperto, vi offro supporto competente in diversi settori del diritto. Il mio obiettivo è trovare la soluzione migliore per voi – che sia attraverso la consulenza, un accordo stragiudiziale o la rappresentanza in tribunale.",
+    "inheritance": {
+      "title": "Diritto successorio",
+      "description": "Il diritto successorio regola la successione patrimoniale ed è spesso associato a difficoltà emotive. Vi supporto in:",
+      "items": [
+        "Redazione e impugnazione di testamenti",
+        "Gestione dell'eredità e divisione del patrimonio",
+        "Diritti di legittima e controversie ereditarie",
+        "Accettazione e rinuncia all'eredità",
+        "Donazioni e successione anticipata"
+      ]
+    },
+    "property": {
+      "title": "Immobili & Catasto",
+      "description": "Le transazioni immobiliari richiedono precisione legale. Come conservatore del libro fondiario autorizzato offro:",
+      "items": [
+        "Contratti di compravendita e donazioni",
+        "Iscrizioni e cancellazioni catastali",
+        "Servitù e diritti di passaggio",
+        "Controversie immobiliari",
+        "Contratti di locazione e affitto"
+      ]
+    },
+    "family": {
+      "title": "Diritto di famiglia",
+      "description": "Le questioni familiari richiedono sensibilità e discrezione. Vi accompagno in:",
+      "items": [
+        "Separazione e divorzio consensuale e contenzioso",
+        "Regolamentazione degli alimenti",
+        "Affidamento e diritto di visita",
+        "Riconoscimento di paternità",
+        "Contratti matrimoniali e separazione dei beni"
+      ]
+    },
+    "civil": {
+      "title": "Diritto civile",
+      "description": "Nel diritto civile rappresento i vostri interessi con determinazione:",
+      "items": [
+        "Richieste di risarcimento danni",
+        "Diritto contrattuale e garanzia",
+        "Recupero crediti",
+        "Diritto di vicinato",
+        "Diritto del lavoro"
+      ]
+    },
+    "criminal": {
+      "title": "Diritto penale",
+      "description": "Nelle questioni penali è fondamentale agire rapidamente e con competenza:",
+      "items": [
+        "Difesa in procedimenti penali",
+        "Opposizioni e appelli",
+        "Rappresentanza di parte civile",
+        "Diritto penale commerciale"
+      ]
+    },
+    "cta": "Richiedi prima consulenza gratuita"
+  },
+  "ueber-uns": {
+    "title": "L'Avvocato Markus Vorhauser",
+    "subtitle": "Esperienza e competenza per il vostro diritto",
+    "intro": "Come vostro avvocato, mi impegno con dedizione e competenza per i vostri interessi legali.",
+    "career": {
+      "title": "Curriculum",
+      "items": [
+        {
+          "year": "1968",
+          "text": "Nato a Merano"
+        },
+        {
+          "year": "1987",
+          "text": "Maturità al Liceo Classico \"Beda Weber\" di Merano"
+        },
+        {
+          "year": "1992",
+          "text": "Laurea in Giurisprudenza all'Università di Bologna"
+        },
+        {
+          "year": "1996",
+          "text": "Inizio dell'attività forense"
+        },
+        {
+          "year": "2002",
+          "text": "Iscrizione all'Ordine degli Avvocati di Bolzano"
+        }
+      ]
+    },
+    "qualifications": {
+      "title": "Qualifiche aggiuntive",
+      "items": [
+        "Conservatore del libro fondiario autorizzato",
+        "Mediatore abilitato",
+        "Patentino di bilinguismo tedesco/italiano"
+      ]
+    },
+    "philosophy": {
+      "title": "La mia filosofia",
+      "text": "Ogni cliente merita attenzione individuale e una soluzione su misura per la sua situazione. Mi prendo il tempo per comprendere a fondo la vostra questione e vi spiego le possibilità legali in modo comprensibile. Il mio obiettivo è trovare insieme a voi la strada migliore – che sia attraverso la negoziazione, la mediazione o la rappresentanza in tribunale."
+    },
+    "cta": "Fissa un appuntamento per una consulenza"
+  },
+  "impressum": {
+    "title": "Impressum",
+    "owner": {
+      "title": "Titolare dello studio",
+      "name": "Avv. Markus Vorhauser",
+      "profession": "Avvocato"
+    },
+    "address": {
+      "title": "Sede principale",
+      "street": "Via Libertà 132",
+      "city": "39012 Merano (BZ)",
+      "country": "Italia"
+    },
+    "branch": {
+      "title": "Filiale",
+      "street": "Via Portici 18",
+      "city": "39020 Glorenza (BZ)",
+      "country": "Italia"
+    },
+    "contact": {
+      "title": "Contatti",
+      "phone": "Telefono",
+      "email": "E-Mail",
+      "pec": "PEC"
+    },
+    "legal": {
+      "title": "Dati legali",
+      "taxCode": "Codice fiscale",
+      "vatNumber": "P.IVA",
+      "sdiCode": "Codice SDI",
+      "chamber": "Ordine degli Avvocati di Bolzano",
+      "chamberSince": "Iscritto dal 2002"
+    },
+    "insurance": {
+      "title": "Assicurazione professionale",
+      "text": "Assicurazione di responsabilità civile professionale secondo le disposizioni dell'Ordine degli Avvocati di Bolzano"
+    },
+    "supervisory": {
+      "title": "Autorità di vigilanza",
+      "text": "Ordine degli Avvocati di Bolzano"
+    }
+  },
+  "datenschutz": {
+    "title": "Informativa sulla privacy",
+    "intro": "La protezione dei vostri dati personali è per noi una priorità importante. Questa informativa vi informa sul trattamento dei vostri dati ai sensi del Regolamento UE sulla protezione dei dati (GDPR) e del Codice della Privacy italiano (D.Lgs. 196/2003).",
+    "controller": {
+      "title": "Titolare del trattamento",
+      "text": "Responsabile del trattamento dei dati è:"
+    },
+    "collection": {
+      "title": "Raccolta e trattamento dei dati personali",
+      "text": "Raccogliamo dati personali quando ce li comunicate volontariamente nell'ambito di un contatto o di un incarico. Ciò include in particolare:",
+      "items": [
+        "Nome e dati di contatto",
+        "Contenuti delle comunicazioni",
+        "Informazioni relative al mandato"
+      ]
+    },
+    "purpose": {
+      "title": "Finalità del trattamento",
+      "text": "I dati raccolti vengono utilizzati esclusivamente per:",
+      "items": [
+        "L'elaborazione delle vostre richieste",
+        "L'esecuzione del rapporto di mandato",
+        "L'adempimento degli obblighi legali di conservazione"
+      ]
+    },
+    "legal": {
+      "title": "Base giuridica",
+      "text": "Il trattamento avviene sulla base dell'art. 6 par. 1 lett. b GDPR (esecuzione del contratto) e dell'art. 6 par. 1 lett. c GDPR (obbligo legale)."
+    },
+    "storage": {
+      "title": "Durata della conservazione",
+      "text": "I dati relativi al mandato vengono conservati per la durata del rapporto di mandato e oltre, secondo i termini legali di conservazione (di norma 10 anni)."
+    },
+    "rights": {
+      "title": "I vostri diritti",
+      "text": "Avete il diritto di:",
+      "items": [
+        "Accesso ai vostri dati memorizzati",
+        "Rettifica dei dati inesatti",
+        "Cancellazione dei vostri dati (nel rispetto degli obblighi legali di conservazione)",
+        "Limitazione del trattamento",
+        "Portabilità dei dati",
+        "Opposizione al trattamento"
+      ]
+    },
+    "confidentiality": {
+      "title": "Segreto professionale",
+      "text": "Come avvocato sono soggetto all'obbligo di riservatezza previsto dalla legge professionale italiana. Tutte le informazioni affidatemi vengono trattate in modo strettamente confidenziale."
+    },
+    "cookies": {
+      "title": "Cookie",
+      "text": "Questo sito web non utilizza cookie di tracciamento. Vengono utilizzati solo cookie tecnicamente necessari per la selezione della lingua."
+    },
+    "contact": {
+      "title": "Contatto per richieste sulla privacy",
+      "text": "Per domande sulla protezione dei dati rivolgetevi a:"
+    },
+    "authority": {
+      "title": "Diritto di reclamo",
+      "text": "Avete il diritto di presentare un reclamo all'autorità italiana per la protezione dei dati (Garante per la protezione dei dati personali)."
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "RA Markus Vorhauser | Rechtsanwalt in Meran",
+    "description": "Rechtsanwaltskanzlei Markus Vorhauser in Meran – Ihr Experte für Erbrecht, Immobilienrecht, Familienrecht und Zivilrecht in Südtirol."
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Über mich",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Ihr Recht in kompetenten Händen",
+    "subtitle": "Seit 1996 Ihr verlässlicher Partner für rechtliche Angelegenheiten in Südtirol. Persönliche Beratung, fundierte Expertise.",
+    "cta": "Beratung anfragen",
+    "secondary": "Leistungen ansehen"
+  },
+  "services": {
+    "title": "Rechtsgebiete",
+    "subtitle": "Kompetente rechtliche Beratung in allen wichtigen Bereichen",
+    "inheritance": "Erbrecht",
+    "inheritanceDesc": "Erbschaften, Testamente, Erbstreitigkeiten – kompetente Beratung und Vertretung in allen erbrechtlichen Angelegenheiten.",
+    "property": "Immobilien & Grundbuch",
+    "propertyDesc": "Vertragsgestaltung, Kaufabwicklungen, Grundbuchsachen und Immobilienstreitigkeiten – professionelle Unterstützung für Ihre Liegenschaft.",
+    "family": "Familienrecht",
+    "familyDesc": "Personen- und Familienangelegenheiten: Scheidung, Unterhalt, Sorgerecht – einfühlsame Begleitung in schwierigen Zeiten.",
+    "civil": "Zivil- & Strafrecht",
+    "civilDesc": "Schadenersatz, Gewährleistung, Forderungseintreibung sowie Verteidigung in Strafsachen – entschlossene Vertretung Ihrer Interessen."
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Rechtsanwalt Markus Vorhauser",
+    "description": "Mit jahrzehntelanger Erfahrung und einem tiefen Verständnis für die Anliegen meiner Mandanten biete ich Ihnen rechtliche Beratung auf höchstem Niveau. Persönlich, kompetent und verlässlich.",
+    "highlight1": "Tätig in der Anwaltschaft seit 1996",
+    "highlight2": "Eingetragen bei der Rechtsanwaltskammer Bozen seit 2002",
+    "highlight3": "Zusatzqualifikationen: Grundbuchsführer und Mediator",
+    "highlight4": "Persönliche Betreuung in deutscher und italienischer Sprache"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Vereinbaren Sie einen Beratungstermin",
+    "info": {
+      "title": "Kontaktdaten",
+      "mainOffice": "Kanzleisitz Meran",
+      "branchOffice": "Zweigstelle Glurns",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "pec": "PEC"
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Ihr vollständiger Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "ihre@email.com",
+      "phone": "Telefon (optional)",
+      "phonePlaceholder": "+39 ...",
+      "message": "Ihre Anfrage",
+      "messagePlaceholder": "Beschreiben Sie kurz Ihr rechtliches Anliegen...",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet...",
+      "success": "Vielen Dank! Wir melden uns in Kürze bei Ihnen.",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "createdBy": "Erstellt von"
+  },
+  "leistungen": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Umfassende rechtliche Beratung und Vertretung",
+    "intro": "Als erfahrener Rechtsanwalt biete ich Ihnen kompetente Unterstützung in verschiedenen Rechtsgebieten. Mein Ziel ist es, für Sie die beste Lösung zu finden – sei es durch Beratung, außergerichtliche Einigung oder gerichtliche Vertretung.",
+    "inheritance": {
+      "title": "Erbrecht",
+      "description": "Das Erbrecht regelt die Vermögensnachfolge und ist oft mit emotionalen Belastungen verbunden. Ich unterstütze Sie bei:",
+      "items": [
+        "Testamentserstellung und -anfechtung",
+        "Erbschaftsabwicklung und Nachlassverteilung",
+        "Pflichtteilsansprüche und Erbstreitigkeiten",
+        "Erbschaftsannahme und -ausschlagung",
+        "Schenkungen und vorweggenommene Erbfolge"
+      ]
+    },
+    "property": {
+      "title": "Immobilien & Grundbuch",
+      "description": "Immobilientransaktionen erfordern rechtliche Präzision. Als zugelassener Grundbuchsführer biete ich:",
+      "items": [
+        "Kaufverträge und Schenkungen",
+        "Grundbucheintragungen und -löschungen",
+        "Servituts- und Wegerechte",
+        "Immobilienstreitigkeiten",
+        "Miet- und Pachtverträge"
+      ]
+    },
+    "family": {
+      "title": "Familienrecht",
+      "description": "Familienrechtliche Angelegenheiten erfordern Einfühlungsvermögen und Diskretion. Ich begleite Sie bei:",
+      "items": [
+        "Einvernehmliche und streitige Scheidung",
+        "Unterhaltsregelungen",
+        "Sorgerecht und Umgangsrecht",
+        "Vaterschaftsanerkennung",
+        "Eheverträge und Gütertrennung"
+      ]
+    },
+    "civil": {
+      "title": "Zivilrecht",
+      "description": "Im Zivilrecht vertrete ich Ihre Interessen konsequent:",
+      "items": [
+        "Schadenersatzforderungen",
+        "Vertragsrecht und Gewährleistung",
+        "Forderungseintreibung",
+        "Nachbarrecht",
+        "Arbeitsrecht"
+      ]
+    },
+    "criminal": {
+      "title": "Strafrecht",
+      "description": "Bei strafrechtlichen Angelegenheiten ist schnelles und kompetentes Handeln entscheidend:",
+      "items": [
+        "Verteidigung in Strafverfahren",
+        "Einsprüche und Berufungen",
+        "Nebenklagevertretung",
+        "Strafrecht im Wirtschaftsbereich"
+      ]
+    },
+    "cta": "Kostenlose Erstberatung anfragen"
+  },
+  "ueber-uns": {
+    "title": "Über Rechtsanwalt Markus Vorhauser",
+    "subtitle": "Erfahrung und Kompetenz für Ihr Recht",
+    "intro": "Als Ihr Anwalt setze ich mich mit Engagement und Fachkenntnis für Ihre rechtlichen Interessen ein.",
+    "career": {
+      "title": "Werdegang",
+      "items": [
+        {
+          "year": "1968",
+          "text": "Geboren in Meran"
+        },
+        {
+          "year": "1987",
+          "text": "Matura am Humanistischen Lyzeum \"Beda Weber\" in Meran"
+        },
+        {
+          "year": "1992",
+          "text": "Abschluss des Rechtswissenschaftsstudiums an der Universität Bologna"
+        },
+        {
+          "year": "1996",
+          "text": "Beginn der anwaltlichen Tätigkeit"
+        },
+        {
+          "year": "2002",
+          "text": "Eintragung bei der Rechtsanwaltskammer Bozen"
+        }
+      ]
+    },
+    "qualifications": {
+      "title": "Zusatzqualifikationen",
+      "items": [
+        "Zugelassener Grundbuchsführer",
+        "Ausgebildeter Mediator",
+        "Zweisprachigkeitsprüfung Deutsch/Italienisch"
+      ]
+    },
+    "philosophy": {
+      "title": "Meine Philosophie",
+      "text": "Jeder Mandant verdient individuelle Aufmerksamkeit und eine auf seine Situation zugeschnittene Lösung. Ich nehme mir die Zeit, Ihr Anliegen gründlich zu verstehen, und erkläre Ihnen die rechtlichen Möglichkeiten in verständlicher Sprache. Mein Ziel ist es, gemeinsam mit Ihnen den besten Weg zu finden – ob durch Verhandlung, Mediation oder gerichtliche Vertretung."
+    },
+    "cta": "Beratungstermin vereinbaren"
+  },
+  "impressum": {
+    "title": "Impressum",
+    "owner": {
+      "title": "Kanzleiinhaber",
+      "name": "RA Markus Vorhauser",
+      "profession": "Rechtsanwalt"
+    },
+    "address": {
+      "title": "Kanzleisitz",
+      "street": "Freiheitsstraße 132",
+      "city": "39012 Meran (BZ)",
+      "country": "Italien"
+    },
+    "branch": {
+      "title": "Zweigstelle",
+      "street": "Laubengasse 18",
+      "city": "39020 Glurns (BZ)",
+      "country": "Italien"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "pec": "PEC"
+    },
+    "legal": {
+      "title": "Rechtliche Angaben",
+      "taxCode": "Steuernummer",
+      "vatNumber": "MwSt.-Nr.",
+      "sdiCode": "SDI-Code",
+      "chamber": "Rechtsanwaltskammer Bozen",
+      "chamberSince": "Eingetragen seit 2002"
+    },
+    "insurance": {
+      "title": "Berufshaftpflicht",
+      "text": "Berufshaftpflichtversicherung gemäß den Vorschriften der Rechtsanwaltskammer Bozen"
+    },
+    "supervisory": {
+      "title": "Aufsichtsbehörde",
+      "text": "Rechtsanwaltskammer Bozen (Ordine degli Avvocati di Bolzano)"
+    }
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "intro": "Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Diese Datenschutzerklärung informiert Sie über die Verarbeitung Ihrer Daten gemäß der EU-Datenschutz-Grundverordnung (DSGVO) und dem italienischen Datenschutzgesetz (D.Lgs. 196/2003).",
+    "controller": {
+      "title": "Verantwortlicher",
+      "text": "Verantwortlich für die Datenverarbeitung ist:"
+    },
+    "collection": {
+      "title": "Erhebung und Verarbeitung personenbezogener Daten",
+      "text": "Wir erheben personenbezogene Daten, wenn Sie uns diese im Rahmen einer Kontaktaufnahme oder Mandatserteilung freiwillig mitteilen. Dies umfasst insbesondere:",
+      "items": [
+        "Name und Kontaktdaten",
+        "Kommunikationsinhalte",
+        "Mandatsbezogene Informationen"
+      ]
+    },
+    "purpose": {
+      "title": "Zweck der Datenverarbeitung",
+      "text": "Die erhobenen Daten werden ausschließlich verwendet für:",
+      "items": [
+        "Die Bearbeitung Ihrer Anfragen",
+        "Die Durchführung des Mandatsverhältnisses",
+        "Die Erfüllung gesetzlicher Aufbewahrungspflichten"
+      ]
+    },
+    "legal": {
+      "title": "Rechtsgrundlage",
+      "text": "Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) sowie Art. 6 Abs. 1 lit. c DSGVO (rechtliche Verpflichtung)."
+    },
+    "storage": {
+      "title": "Speicherdauer",
+      "text": "Mandatsbezogene Daten werden für die Dauer des Mandatsverhältnisses und darüber hinaus gemäß den gesetzlichen Aufbewahrungsfristen (in der Regel 10 Jahre) gespeichert."
+    },
+    "rights": {
+      "title": "Ihre Rechte",
+      "text": "Sie haben das Recht auf:",
+      "items": [
+        "Auskunft über Ihre gespeicherten Daten",
+        "Berichtigung unrichtiger Daten",
+        "Löschung Ihrer Daten (unter Beachtung gesetzlicher Aufbewahrungspflichten)",
+        "Einschränkung der Verarbeitung",
+        "Datenübertragbarkeit",
+        "Widerspruch gegen die Verarbeitung"
+      ]
+    },
+    "confidentiality": {
+      "title": "Anwaltliche Verschwiegenheit",
+      "text": "Als Rechtsanwalt unterliege ich der gesetzlichen Verschwiegenheitspflicht gemäß dem italienischen Berufsrecht. Alle mir anvertrauten Informationen werden streng vertraulich behandelt."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "text": "Diese Website verwendet keine Tracking-Cookies. Es werden lediglich technisch notwendige Cookies für die Sprachauswahl verwendet."
+    },
+    "contact": {
+      "title": "Kontakt für Datenschutzanfragen",
+      "text": "Bei Fragen zum Datenschutz wenden Sie sich bitte an:"
+    },
+    "authority": {
+      "title": "Beschwerderecht",
+      "text": "Sie haben das Recht, eine Beschwerde bei der italienischen Datenschutzbehörde (Garante per la protezione dei dati personali) einzureichen."
+    }
+  }
+}

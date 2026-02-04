@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 40" fill="none">
+  <!-- Left border line -->
+  <rect x="0" y="2" width="2" height="36" fill="#ffffff"/>
+
+  <!-- MV Text -->
+  <text x="8" y="22" font-family="Georgia, serif" font-size="20" font-weight="400" letter-spacing="0.1em" fill="#ffffff">MV</text>
+
+  <!-- Rechtsanwalt Text -->
+  <text x="8" y="34" font-family="system-ui, sans-serif" font-size="6" font-weight="500" letter-spacing="0.15em" fill="rgba(255,255,255,0.7)">RECHTSANWALT</text>
+</svg>
