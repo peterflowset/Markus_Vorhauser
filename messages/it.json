@@ -11,7 +11,7 @@
   },
   "hero": {
     "title": "Il vostro diritto in mani competenti",
-    "subtitle": "Dal 1996 il vostro partner affidabile per questioni legali in Alto Adige. Consulenza personale, competenza consolidata.",
+    "subtitle": "Dal 2002 il vostro partner affidabile per questioni legali in Alto Adige. Consulenza personale, competenza consolidata.",
     "cta": "Richiedi consulenza",
     "secondary": "I nostri servizi"
   },
@@ -31,9 +31,9 @@
     "title": "Chi sono",
     "subtitle": "Avvocato Markus Vorhauser",
     "description": "Con decenni di esperienza e una profonda comprensione delle esigenze dei miei clienti, offro consulenza legale di altissimo livello. Personale, competente e affidabile.",
-    "highlight1": "Attivo nella professione forense dal 1996",
+    "highlight1": "Attivo nella professione forense dal 2002",
     "highlight2": "Iscritto all'Ordine degli Avvocati di Bolzano dal 2002",
-    "highlight3": "Qualifiche aggiuntive: Conservatore del libro fondiario e Mediatore",
+    "highlight3": "Qualifiche aggiuntive: Formazione come conservatore del libro fondiario e Mediatore",
     "highlight4": "Assistenza personale in tedesco e italiano"
   },
   "contact": {
@@ -87,18 +87,16 @@
       "title": "Diritto successorio",
       "description": "Il diritto successorio regola la successione patrimoniale ed è spesso associato a difficoltà emotive. Vi supporto in:",
       "items": [
-        "Redazione e impugnazione di testamenti",
+        "Regolamentazione successoria completa",
         "Gestione dell'eredità e divisione del patrimonio",
-        "Diritti di legittima e controversie ereditarie",
-        "Accettazione e rinuncia all'eredità",
-        "Donazioni e successione anticipata"
+        "Diritti di legittima e controversie ereditarie"
       ]
     },
     "property": {
       "title": "Immobili & Catasto",
-      "description": "Le transazioni immobiliari richiedono precisione legale. Come conservatore del libro fondiario autorizzato offro:",
+      "description": "Le transazioni immobiliari richiedono precisione legale. Offro:",
       "items": [
-        "Contratti di compravendita e donazioni",
+        "Consulenza e assistenza per acquisti e donazioni",
         "Iscrizioni e cancellazioni catastali",
         "Servitù e diritti di passaggio",
         "Controversie immobiliari",
@@ -112,8 +110,8 @@
         "Separazione e divorzio consensuale e contenzioso",
         "Regolamentazione degli alimenti",
         "Affidamento e diritto di visita",
-        "Riconoscimento di paternità",
-        "Contratti matrimoniali e separazione dei beni"
+        "Accertamento e riconoscimento di paternità",
+        "Regime patrimoniale dei coniugi"
       ]
     },
     "civil": {
@@ -123,8 +121,7 @@
         "Richieste di risarcimento danni",
         "Diritto contrattuale e garanzia",
         "Recupero crediti",
-        "Diritto di vicinato",
-        "Diritto del lavoro"
+        "Diritto di vicinato"
       ]
     },
     "criminal": {
@@ -171,14 +168,14 @@
     "qualifications": {
       "title": "Qualifiche aggiuntive",
       "items": [
-        "Conservatore del libro fondiario autorizzato",
+        "In formazione come conservatore del libro fondiario",
         "Mediatore abilitato",
         "Patentino di bilinguismo tedesco/italiano"
       ]
     },
     "philosophy": {
       "title": "La mia filosofia",
-      "text": "Ogni cliente merita attenzione individuale e una soluzione su misura per la sua situazione. Mi prendo il tempo per comprendere a fondo la vostra questione e vi spiego le possibilità legali in modo comprensibile. Il mio obiettivo è trovare insieme a voi la strada migliore – che sia attraverso la negoziazione, la mediazione o la rappresentanza in tribunale."
+      "text": "Si tratta di ogni singola persona e del suo benessere: che lo ottenga, che lo mantenga, che non lo perda, che lo recuperi e che non le venga tolto. Per questo ognuna e ognuno merita attenzione individuale e una soluzione su misura per la sua situazione. Mi prendo il tempo e do lo spazio per comprendere a fondo la vostra richiesta e valuto le possibilità giuridiche. Il mio obiettivo è trovare insieme a voi la strada più percorribile per voi – sia attraverso la negoziazione, la mediazione o la rappresentanza in giudizio."
     },
     "cta": "Fissa un appuntamento per una consulenza"
   },

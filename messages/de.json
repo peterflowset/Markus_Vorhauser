@@ -11,7 +11,7 @@
   },
   "hero": {
     "title": "Ihr Recht in kompetenten Händen",
-    "subtitle": "Seit 1996 Ihr verlässlicher Partner für rechtliche Angelegenheiten in Südtirol. Persönliche Beratung, fundierte Expertise.",
+    "subtitle": "Seit 2002 Ihr verlässlicher Partner für rechtliche Angelegenheiten in Südtirol. Persönliche Beratung, fundierte Expertise.",
     "cta": "Beratung anfragen",
     "secondary": "Leistungen ansehen"
   },
@@ -31,9 +31,9 @@
     "title": "Über mich",
     "subtitle": "Rechtsanwalt Markus Vorhauser",
     "description": "Mit jahrzehntelanger Erfahrung und einem tiefen Verständnis für die Anliegen meiner Mandanten biete ich Ihnen rechtliche Beratung auf höchstem Niveau. Persönlich, kompetent und verlässlich.",
-    "highlight1": "Tätig in der Anwaltschaft seit 1996",
+    "highlight1": "Tätig in der Anwaltschaft seit 2002",
     "highlight2": "Eingetragen bei der Rechtsanwaltskammer Bozen seit 2002",
-    "highlight3": "Zusatzqualifikationen: Grundbuchsführer und Mediator",
+    "highlight3": "Zusatzqualifikationen: Ausbildung zum Grundbuchsführer und Mediator",
     "highlight4": "Persönliche Betreuung in deutscher und italienischer Sprache"
   },
   "contact": {
@@ -87,18 +87,16 @@
       "title": "Erbrecht",
       "description": "Das Erbrecht regelt die Vermögensnachfolge und ist oft mit emotionalen Belastungen verbunden. Ich unterstütze Sie bei:",
       "items": [
-        "Testamentserstellung und -anfechtung",
+        "Umfassende Nachlassregelung",
         "Erbschaftsabwicklung und Nachlassverteilung",
-        "Pflichtteilsansprüche und Erbstreitigkeiten",
-        "Erbschaftsannahme und -ausschlagung",
-        "Schenkungen und vorweggenommene Erbfolge"
+        "Pflichtteilsansprüche und Erbstreitigkeiten"
       ]
     },
     "property": {
       "title": "Immobilien & Grundbuch",
-      "description": "Immobilientransaktionen erfordern rechtliche Präzision. Als zugelassener Grundbuchsführer biete ich:",
+      "description": "Immobilientransaktionen erfordern rechtliche Präzision. Ich biete:",
       "items": [
-        "Kaufverträge und Schenkungen",
+        "Beratung und Beistand bei Kauf und Schenkung",
         "Grundbucheintragungen und -löschungen",
         "Servituts- und Wegerechte",
         "Immobilienstreitigkeiten",
@@ -109,11 +107,11 @@
       "title": "Familienrecht",
       "description": "Familienrechtliche Angelegenheiten erfordern Einfühlungsvermögen und Diskretion. Ich begleite Sie bei:",
       "items": [
-        "Einvernehmliche und streitige Scheidung",
+        "Einvernehmliche und streitige Trennung und Scheidung",
         "Unterhaltsregelungen",
         "Sorgerecht und Umgangsrecht",
-        "Vaterschaftsanerkennung",
-        "Eheverträge und Gütertrennung"
+        "Vaterschaftsfeststellung und -anerkennung",
+        "Ehegattengüterrecht"
       ]
     },
     "civil": {
@@ -123,8 +121,7 @@
         "Schadenersatzforderungen",
         "Vertragsrecht und Gewährleistung",
         "Forderungseintreibung",
-        "Nachbarrecht",
-        "Arbeitsrecht"
+        "Nachbarrecht"
       ]
     },
     "criminal": {
@@ -171,14 +168,14 @@
     "qualifications": {
       "title": "Zusatzqualifikationen",
       "items": [
-        "Zugelassener Grundbuchsführer",
+        "Ausbildung zum Grundbuchsführer",
         "Ausgebildeter Mediator",
         "Zweisprachigkeitsprüfung Deutsch/Italienisch"
       ]
     },
     "philosophy": {
       "title": "Meine Philosophie",
-      "text": "Jeder Mandant verdient individuelle Aufmerksamkeit und eine auf seine Situation zugeschnittene Lösung. Ich nehme mir die Zeit, Ihr Anliegen gründlich zu verstehen, und erkläre Ihnen die rechtlichen Möglichkeiten in verständlicher Sprache. Mein Ziel ist es, gemeinsam mit Ihnen den besten Weg zu finden – ob durch Verhandlung, Mediation oder gerichtliche Vertretung."
+      "text": "Es geht um jede einzelne Person und ihr je eigenes Wohl: dass sie es bekommt, dass sie es behält, dass sie es nicht verliert, dass sie es wiederbekommt und dass es ihr nicht genommen wird. Deshalb verdient jede und jeder individuelle Aufmerksamkeit und eine auf ihre / seine Situation zugeschnittene Lösung. Ich nehme mir die Zeit und gebe den Raum, Ihr Anliegen ganz zu verstehen, und lote die rechtlichen Möglichkeiten aus. Mein Ziel ist es, gemeinsam mit Ihnen den für Sie gangbarsten Weg zu finden – ob durch Verhandlung, Mediation oder gerichtliche Vertretung."
     },
     "cta": "Beratungstermin vereinbaren"
   },
