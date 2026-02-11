@@ -17,13 +17,13 @@
   },
   "services": {
     "title": "Aree di competenza",
-    "subtitle": "Consulenza legale competente in tutti i settori principali",
+    "subtitle": "Consulenza legale competente in tutti i settori principali del diritto",
     "inheritance": "Diritto successorio",
     "inheritanceDesc": "Eredità, testamenti, controversie ereditarie – consulenza e rappresentanza competente in tutte le questioni successorie.",
     "property": "Immobili & Catasto",
-    "propertyDesc": "Redazione contratti, compravendite, questioni catastali e controversie immobiliari – supporto professionale per il vostro immobile.",
+    "propertyDesc": "consulenza ed assistenza negli affari immobiliari, assistenza e rappresentanza nelle liti immobiliari e diritti reali – supporto professionale nella gestione del vostro patrimonio immobiliare.",
     "family": "Diritto di famiglia",
-    "familyDesc": "Questioni personali e familiari: divorzio, alimenti, affidamento – accompagnamento sensibile in momenti difficili.",
+    "familyDesc": "diritti delle personalità e in materia del diritto di famiglia: separazione e divorzio, affidamento, collegazione e mantenimento della prole - accompagnamento sensibile in momenti difficili.",
     "civil": "Diritto civile & penale",
     "civilDesc": "Risarcimento danni, garanzia, recupero crediti e difesa penale – rappresentanza decisa dei vostri interessi."
   },
@@ -81,23 +81,23 @@
   },
   "leistungen": {
     "title": "I nostri servizi",
-    "subtitle": "Consulenza e rappresentanza legale completa",
-    "intro": "Come avvocato esperto, vi offro supporto competente in diversi settori del diritto. Il mio obiettivo è trovare la soluzione migliore per voi – che sia attraverso la consulenza, un accordo stragiudiziale o la rappresentanza in tribunale.",
+    "subtitle": "Consulenza, assistenza e rappresentanza legale completa",
+    "intro": "Come avvocato esperto, vi offro assistenza competente in diversi settori del diritto. Il mio obiettivo è quello di trovare la soluzione migliore per voi – che sia tramite la consulenza, un accordo stragiudiziale o la rappresentanza in giudizio.",
     "inheritance": {
       "title": "Diritto successorio",
-      "description": "Il diritto successorio regola la successione patrimoniale ed è spesso associato a difficoltà emotive. Vi supporto in:",
+      "description": "Il diritto successorio regola il passaggio del patrimonio ed è spesso accompagnato da difficoltà emotive. Vi supporto in:",
       "items": [
         "Regolamentazione successoria completa",
         "Gestione dell'eredità e divisione del patrimonio",
-        "Diritti di legittima e controversie ereditarie"
+        "Petizione di legittima e controversie ereditarie"
       ]
     },
     "property": {
       "title": "Immobili & Catasto",
       "description": "Le transazioni immobiliari richiedono precisione legale. Offro:",
       "items": [
-        "Consulenza e assistenza per acquisti e donazioni",
-        "Iscrizioni e cancellazioni catastali",
+        "Consulenza e assistenza nelle compravendite e nelle donazioni",
+        "Iscrizioni e cancellazioni nel libro fondiario",
         "Servitù e diritti di passaggio",
         "Controversie immobiliari",
         "Contratti di locazione e affitto"
@@ -108,7 +108,7 @@
       "description": "Le questioni familiari richiedono sensibilità e discrezione. Vi accompagno in:",
       "items": [
         "Separazione e divorzio consensuale e contenzioso",
-        "Regolamentazione degli alimenti",
+        "Regolamentazione mantenimento della prole",
         "Affidamento e diritto di visita",
         "Accertamento e riconoscimento di paternità",
         "Regime patrimoniale dei coniugi"
@@ -126,7 +126,7 @@
     },
     "criminal": {
       "title": "Diritto penale",
-      "description": "Nelle questioni penali è fondamentale agire rapidamente e con competenza:",
+      "description": "Nel penale è fondamentale agire con accuratezza e scrupolosità:",
       "items": [
         "Difesa in procedimenti penali",
         "Opposizioni e appelli",
@@ -175,7 +175,7 @@
     },
     "philosophy": {
       "title": "La mia filosofia",
-      "text": "Si tratta di ogni singola persona e del suo benessere: che lo ottenga, che lo mantenga, che non lo perda, che lo recuperi e che non le venga tolto. Per questo ognuna e ognuno merita attenzione individuale e una soluzione su misura per la sua situazione. Mi prendo il tempo e do lo spazio per comprendere a fondo la vostra richiesta e valuto le possibilità giuridiche. Il mio obiettivo è trovare insieme a voi la strada più percorribile per voi – sia attraverso la negoziazione, la mediazione o la rappresentanza in giudizio."
+      "text": "Mio baricentro è ogni singola persona ed il suo benessere: che lo ottenga, che lo mantenga, che non lo perda, che lo recuperi e che non le venga tolto. Per questo ognuna e ognuno merita attenzione individuale e una soluzione su misura per la sua situazione. Mi prendo il tempo e do lo spazio per comprendere a fondo la vostra richiesta e valuto le possibilità giuridiche. Il mio obiettivo è trovare insieme a voi la strada più percorribile per voi – sia attraverso la negoziazione, la mediazione o la rappresentanza in giudizio."
     },
     "cta": "Fissa un appuntamento per una consulenza"
   },
