@@ -37,6 +37,8 @@
     "highlight4": "Persönliche Betreuung in deutscher und italienischer Sprache"
   },
   "contact": {
+    "metaTitle": "Kontakt & Beratungstermin",
+    "metaDescription": "Kontaktieren Sie Rechtsanwalt Markus Vorhauser – Kanzleisitz in Meran, Zweigstelle in Glurns. Vereinbaren Sie jetzt einen Beratungstermin.",
     "title": "Kontaktieren Sie uns",
     "subtitle": "Vereinbaren Sie einen Beratungstermin",
     "info": {
@@ -80,6 +82,8 @@
     "close": "Schließen"
   },
   "leistungen": {
+    "metaTitle": "Leistungen",
+    "metaDescription": "Rechtsanwalt Markus Vorhauser in Meran – Kompetente Vertretung in Erbrecht, Immobilienrecht, Familienrecht, Zivilrecht und Strafrecht in Südtirol.",
     "title": "Unsere Leistungen",
     "subtitle": "Umfassende rechtliche Beratung und Vertretung",
     "intro": "Als erfahrener Rechtsanwalt biete ich Ihnen kompetente Unterstützung in verschiedenen Rechtsgebieten. Mein Ziel ist es, für Sie die beste Lösung zu finden – sei es durch Beratung, außergerichtliche Einigung oder gerichtliche Vertretung.",
@@ -137,6 +141,8 @@
     "cta": "Kostenlose Erstberatung anfragen"
   },
   "ueber-uns": {
+    "metaTitle": "Über RA Markus Vorhauser",
+    "metaDescription": "Rechtsanwalt Markus Vorhauser – seit 2002 bei der Rechtsanwaltskammer Bozen eingetragen. Erfahrung, Kompetenz und persönliche Betreuung in Meran.",
     "title": "Über Rechtsanwalt Markus Vorhauser",
     "subtitle": "Erfahrung und Kompetenz für Ihr Recht",
     "intro": "Als Ihr Anwalt setze ich mich mit Engagement und Fachkenntnis für Ihre rechtlichen Interessen ein.",
@@ -180,6 +186,8 @@
     "cta": "Beratungstermin vereinbaren"
   },
   "impressum": {
+    "metaTitle": "Impressum",
+    "metaDescription": "Impressum der Rechtsanwaltskanzlei Markus Vorhauser in Meran – Rechtliche Angaben, Kontaktdaten und Berufsordnung.",
     "title": "Impressum",
     "owner": {
       "title": "Kanzleiinhaber",
@@ -231,6 +239,8 @@
     }
   },
   "datenschutz": {
+    "metaTitle": "Datenschutzerklärung",
+    "metaDescription": "Datenschutzerklärung der Rechtsanwaltskanzlei Markus Vorhauser – Informationen zum Schutz Ihrer persönlichen Daten gemäß DSGVO.",
     "title": "Datenschutzerklärung",
     "intro": "Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Diese Datenschutzerklärung informiert Sie über die Verarbeitung Ihrer Daten gemäß der EU-Datenschutz-Grundverordnung (DSGVO) und dem italienischen Datenschutzgesetz (D.Lgs. 196/2003).",
     "controller": {

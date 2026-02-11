@@ -28,7 +28,10 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "metadata" });
 
   return {
-    title: t("title"),
+    title: {
+      template: locale === "de" ? "%s | RA Markus Vorhauser" : "%s | Avv. Markus Vorhauser",
+      default: t("title"),
+    },
     description: t("description"),
     icons: {
       icon: '/icon.svg',

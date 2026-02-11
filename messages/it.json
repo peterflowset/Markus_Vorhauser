@@ -37,6 +37,8 @@
     "highlight4": "Assistenza personale in tedesco e italiano"
   },
   "contact": {
+    "metaTitle": "Contatto & Appuntamento",
+    "metaDescription": "Contattate l'Avvocato Markus Vorhauser – Sede principale a Merano, filiale a Glorenza. Fissate subito un appuntamento per una consulenza.",
     "title": "Contattateci",
     "subtitle": "Fissate un appuntamento per una consulenza",
     "info": {
@@ -80,6 +82,8 @@
     "close": "Chiudi"
   },
   "leistungen": {
+    "metaTitle": "Servizi legali",
+    "metaDescription": "Avvocato Markus Vorhauser a Merano – Assistenza competente in diritto successorio, immobiliare, familiare, civile e penale in Alto Adige.",
     "title": "I nostri servizi",
     "subtitle": "Consulenza, assistenza e rappresentanza legale completa",
     "intro": "Come avvocato esperto, vi offro assistenza competente in diversi settori del diritto. Il mio obiettivo è quello di trovare la soluzione migliore per voi – che sia tramite la consulenza, un accordo stragiudiziale o la rappresentanza in giudizio.",
@@ -137,6 +141,8 @@
     "cta": "Richiedi prima consulenza gratuita"
   },
   "ueber-uns": {
+    "metaTitle": "L'Avvocato Markus Vorhauser",
+    "metaDescription": "Avvocato Markus Vorhauser – iscritto all'Ordine degli Avvocati di Bolzano dal 2002. Esperienza, competenza e assistenza personale a Merano.",
     "title": "L'Avvocato Markus Vorhauser",
     "subtitle": "Esperienza e competenza per il vostro diritto",
     "intro": "Come vostro avvocato, mi impegno con dedizione e competenza per i vostri interessi legali.",
@@ -180,6 +186,8 @@
     "cta": "Fissa un appuntamento per una consulenza"
   },
   "impressum": {
+    "metaTitle": "Impressum",
+    "metaDescription": "Impressum dello Studio Legale Markus Vorhauser a Merano – Dati legali, contatti e codice deontologico.",
     "title": "Impressum",
     "owner": {
       "title": "Titolare dello studio",
@@ -231,6 +239,8 @@
     }
   },
   "datenschutz": {
+    "metaTitle": "Informativa sulla privacy",
+    "metaDescription": "Informativa sulla privacy dello Studio Legale Markus Vorhauser – Informazioni sul trattamento dei vostri dati personali ai sensi del GDPR.",
     "title": "Informativa sulla privacy",
     "intro": "La protezione dei vostri dati personali è per noi una priorità importante. Questa informativa vi informa sul trattamento dei vostri dati ai sensi del Regolamento UE sulla protezione dei dati (GDPR) e del Codice della Privacy italiano (D.Lgs. 196/2003).",
     "controller": {
